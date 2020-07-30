@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800487633671",
+    "firebase_url": "https://ccsc-appdev-task2.firebaseio.com",
+    "project_id": "ccsc-appdev-task2",
+    "storage_bucket": "ccsc-appdev-task2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800487633671:android:afa2743d452288a6478ba2",
+        "android_client_info": {
+          "package_name": "ccscappdevtask2.ccsc_appdev_task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800487633671-tgoi33blv7vsthpj89ut84ouc3d53okd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0GH-UsqVpEvczvh-hKAlZnHP1pZOkUPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800487633671-tgoi33blv7vsthpj89ut84ouc3d53okd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
