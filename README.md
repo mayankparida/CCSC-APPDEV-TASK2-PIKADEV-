@@ -13,7 +13,7 @@ For running this script you'll need:
 
 ## Installing And Running:
 * To download Android Studio [Click Here](https://developer.android.com/studio)
-* Go to the Configure Menu in Android Studio and select plugins. Click on browse repositories and search for the flutter plugin and install it.
+* Go to the "Configure Menu" in Android Studio and select "plugins". Click on browse repositories and search for the flutter plugin and install it.
 * Copy the Github project repository url link. Select option "Get from version control" in Android Studio and select "Git" as version control. Paste the url link and select "Clone".
 * After the cloning process is complete ,open the project seperately in Android Studio by selecting "Open an existing Android Studio project" in the location where you have cloned the project.
 * After the project opens, go to the main.dart file and click on get dependencies.
